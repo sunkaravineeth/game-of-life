@@ -1,5 +1,5 @@
-@Library('Release')_
-Release (
+@Library('Deployment')_
+Deployment (
   [
     timeoutTime: 5,
     skipSonar: true,
