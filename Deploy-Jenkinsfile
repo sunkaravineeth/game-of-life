@@ -1,0 +1,10 @@
+@Library('Deployment')_
+
+Deployment (
+  [
+    timeoutTime: 5,
+    skipSonar: true,
+    skipFortify: true
+    
+    ]
+  )
