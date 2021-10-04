@@ -1,1 +1,10 @@
 
+@Library('Release')_
+Release (
+  [
+    timeoutTime: 5,
+    skipSonar: true,
+    skipFortify: true
+    
+    ]
+  )
